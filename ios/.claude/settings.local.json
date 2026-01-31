@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(mkdir:*)",
+      "Bash(find:*)",
+      "Bash(cat:*)",
+      "mcp__figma__get_screenshot",
+      "mcp__figma__get_design_context",
+      "mcp__figma__get_metadata",
+      "Bash(git grep:*)",
+      "Bash(ls:*)",
+      "Bash(git ls-tree:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

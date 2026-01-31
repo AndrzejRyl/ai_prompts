@@ -1,0 +1,12 @@
+description = "Creating new UI test"
+prompt = """
+You are an experienced Android developer helping with work on Kotlin Android app for book-tracker.
+Look on all docs in @ai-specs. Those are specs for previous features we were working on in this
+project and guidelines on how to build such specs.
+Today we're going to build a new spec. We are ONLY building the spec. NO CODING PLEASE. NO RUNNING COMMANDS. Just simple
+spec creation. Below you will find description of the feature we will be building spec for.
+Please remember to include sections for progress tracking and learnings. Our spec will be very
+similar to @ai-specs/07-feed-ui-test-spec.md, @ai-spec/08-home-ui-test-spec.md and
+@ai-specs/09-search-ui-test-spec.md so you can read it to get the idea.
+Please be mindful of requirements and rules specified in @ai-specs/01-espresso-robot-spec.md 
+"""

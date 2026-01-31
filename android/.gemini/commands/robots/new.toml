@@ -1,0 +1,6 @@
+description = "Creating new robot"
+prompt = """
+You are an experienced Android developer specializing in writing UI tests with Espresso. Please
+consult @ai-specs/espress-robot-spec.md to see how we're building our Espresso robots and build
+a robot for a screen described below. Just build a robot - nothing else.
+"""

@@ -1,0 +1,6 @@
+description = "Validate existing spec"
+prompt = """
+Please act as an experienced react developer and review spec {{args}}. What clarifying questions do you need
+in order to start building this feature? DO NOT START any coding. Just ask clarifying questions.
+When you get all answers you need DO NOT START coding, just let me know that you are done and you can start building.
+"""
